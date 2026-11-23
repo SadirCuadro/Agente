@@ -1,0 +1,26 @@
+# Entornos virtuales
+.venv/
+.venv*/
+venv/
+env/
+
+# Cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración sensibles y API Keys
+.env
+*.env
+token.json
+credentials.json
+client_secret*.json
+
+# Datos locales y bases de datos
+data/
+*.db
+*.sqlite3
+
+# IDE y configuración de editor
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+ .\.venv\Scri streamlit run simple_google_agent.py
+
+ .\conectar_calendar.bat CALENDARIO ASISTENTE CONECTAR
+ .\run_asistente.bat  INICIAR ASISTENTE
